@@ -1,3 +1,3 @@
-# cloud-computing-project
+# Cloud-Native Real-Time Sentiment Analysis System
 
 Real-time sentiment analysis of social media streams presents unique challenges due to the high volume, velocity, and variety of incoming data. This project introduces a cloud-native pipeline that performs real-time sentiment classification on live or simulated social media content. Leveraging PySpark for distributed stream processing, a fine-tuned TensorFlow Large Language Model (LLM) for accurate sentiment classification, and Firebase for real-time result storage and visualization, the system is optimized for both performance and scalability. Additionally, Neo4j is integrated to model and analyse relationships between users, keywords, and sentiment trends, enabling powerful graph-based insights such as influence mapping and opinion propagation paths.
